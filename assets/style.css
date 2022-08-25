@@ -1,0 +1,124 @@
+@font-face {
+    font-family: FIFA;
+    src: url(/assets/font_style.otf);
+}
+
+body {
+    background-color: #0A0A0A;
+    color: #F0B90B;
+    height: 100%;
+    background: rgb(10,10,10);
+    background: linear-gradient(rgba(10,10,10,1), rgba(5,5,5,1));
+    padding-bottom: 2%;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    font-family: FIFA;
+    border-radius: 10px;
+}
+
+.navbar {
+    color: #F0B90B;
+    background-color: transparent!important;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+}
+
+.card_attributes {
+    background-color: #0F0F0F;
+    color: #858585;
+    border-style: solid;
+    text-align: center;
+    border-radius: 5px;
+    padding: 1%:
+}
+
+.card-body {
+    background-color: #0F0F0F;
+    color: #F0B90B;
+}
+
+.card {
+    background-color: #0F0F0F;
+    color: #F0B90B;
+}
+
+.card_txt {
+    background-color: #0F0F0F;
+    color: #858585;
+    margin-left: 5%;
+    font-size: 18px;
+}
+
+.label1 {
+    color: #F0B90B;
+    font-size: 230%;
+    text-decoration-style: solid;
+    text-align: center;
+    top: auto;
+    text-shadow: -1px -1px 1px #0F0F0F;
+}
+
+.label2 {
+  color: #F0B90B;
+  font-size: 230%;
+  text-decoration-style: solid;
+  text-align: right;
+  top: auto;
+  text-shadow: -1px -1px 1px #0F0F0F;
+}
+
+.label3 {
+    color:#858585;
+    font-size: 100%;
+    text-decoration-style: solid;
+    text-align: center;
+    top: auto;
+}
+
+.label4 {
+  color: #F0B90B;
+  font-size: 550%;
+  text-decoration-style: solid;
+  text-align: left;
+  top: auto;
+  text-shadow: -1px -1px 1px #0F0F0F;
+}
+
+.label5 {
+  color: #F0B90B;
+  font-size: 150%;
+  text-decoration-style: solid;
+  text-align: left;
+  top: auto;
+  text-shadow: -1px -1px 1px #0F0F0F;
+}
+
+.nav-link {
+    background-color: #0F0F0F;
+    color: #858585;
+    border: transparent;
+    border-color: #0F0F0F;
+}
+
+.nav-tabs {
+    background-color: #0A0A0A;
+    color: #858585;
+    border: transparent;
+    border-color: #0F0F0F;
+}
+
+.nav-tabs .nav-link.active {
+    background-color: #0F0F0F;
+    color: #F0B90B;
+    border-color: #0F0F0F;
+}
+
+.nav-link:hover{
+    background-color: #0F0F0F;
+    color: #858585;
+    border: transparent;
+    border-color: #0F0F0F;
+}
